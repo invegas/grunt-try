@@ -2,6 +2,7 @@
 
 ## 安装
 - 安装grunt: `npm install -g grunt-cli`
+- 安装uglify: `npm install grunt-contrib-uglify --save`
 
 ## 运行
 - `grunt default` 
